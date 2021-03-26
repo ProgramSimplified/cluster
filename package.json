@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ProgramSimplified/cluster/issues"
   },
-  "homepage": "https://github.com/ProgramSimplified/cluster#readme"
+  "homepage": "https://github.com/ProgramSimplified/cluster#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
