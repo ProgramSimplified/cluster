@@ -1,6 +1,6 @@
 # Cluster in Node.js
 
-The post at https://juejin.cn/post/6943871907733176357
+The post at https://juejin.cn/post/6943871907733176357 .
 
 - original app
 
